@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "AnimeList using next js",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Created website for showing any information about anime, using next js, it also have authoritation with github and this website also can connect to the database",
+    url: "https://github.com/Jonathan0823/animeweb-using-next",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Weather App",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "I also Created weather app that fetch API in order to get any information, made using python programming language",
+    url: "https://github.com/Jonathan0823/Weather-Using-API",
   },
   {
-    title: "My Resume Site",
+    title: "Simple Movie Web",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Created using React, this website also fetches API to the web to show any information about movies",
+    url: "https://github.com/Jonathan0823/First-React",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Calculator web",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "I tried a bit of stying with this project, and some simple javascript to make the computation work in the web.",
+    url: "https://github.com/Jonathan0823/Calculator-Web",
   },
 ];
 
